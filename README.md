@@ -121,8 +121,9 @@ ai_brain.predict(input_scaled)
 ![image](https://user-images.githubusercontent.com/105230321/194721977-e9e029c1-9208-42dc-8a95-f728284a941a.png)
 
 ### New Sample Data Prediction
-## SAMPLE INPUT AND OUTPUT
+## Sample input and output
 ![image](https://user-images.githubusercontent.com/105230321/194722009-3540d924-c4dc-465c-92bf-26b414481d17.png)
+
 ![image](https://user-images.githubusercontent.com/105230321/194722015-821bb72e-8c21-44e4-b418-e2a113804a4e.png)
 
 
