@@ -106,7 +106,7 @@ input_scaled = scaler.transform(input)
 input_scaled.shape
 input_scaled
 ai_brain.predict(input_scaled)
-
+```
 ## Dataset Information
 ![image](https://user-images.githubusercontent.com/105230321/194721963-4ccb214f-bcbc-4b25-bb86-3b8f1e41cba5.png)
 
